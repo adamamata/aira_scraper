@@ -59,4 +59,4 @@ jobs:
           app-name: 'airascraper'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_BA24F5EFF59A4CE68F5A1A315103A66B }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_BC97B97A41DA46B1ADDC14F64C081055 }}
